@@ -4,7 +4,7 @@ import Image from "next/image";
 // import img1 from '@/public/src/logo.svg';
 import Link from "next/link";
 import Menu from "../menu/Menu";
-import MenuMobile from "../menumobile/menuMobile";
+import MenuMobile from "./menumobile/menuMobile";
 
 
 import { IoMdHeartEmpty } from "react-icons/io";
